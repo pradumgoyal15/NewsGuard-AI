@@ -42,3 +42,15 @@ News Headline + Article
     Decision Score
           ↓
    REAL / FAKE
+
+   ---
+
+## 🖥️ Application Preview
+
+![NewsGuard AI Demo](assets/newsguard_ai_demo.png)
+
+NewsGuard AI provides an interactive Streamlit interface for
+analyzing news articles and displaying the model's prediction,
+decision score, signal strength, and article statistics.
+
+---
