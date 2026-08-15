@@ -42,9 +42,9 @@ News Headline + Article
           ↓
     Decision Score
           ↓
-```markdown
    REAL / FAKE
-
+```text
+```markdown
    ---
 
 ## 🖥️ Application Preview
