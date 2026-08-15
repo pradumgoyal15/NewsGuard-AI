@@ -26,6 +26,7 @@ The system uses **Natural Language Processing (NLP)**, **TF-IDF feature extracti
 
 ---
 
+```markdown
 ## 🧠 How It Works
 
 ```text
@@ -41,6 +42,7 @@ News Headline + Article
           ↓
     Decision Score
           ↓
+```markdown
    REAL / FAKE
 
    ---
