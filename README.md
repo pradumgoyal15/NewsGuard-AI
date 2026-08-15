@@ -43,7 +43,7 @@ News Headline + Article
     Decision Score
           ↓
    REAL / FAKE
-```text
+```
 ```markdown
    ---
 
